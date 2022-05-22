@@ -1,0 +1,11 @@
+1. lengkapin field
+2. status -> open file
+3. design masih kasar
+
+# complek -> perkembangan nya
+monitoring udah sampai mana -> misal udah sampai prodi -> sampai cetak dll
+mahasiswa butuh surat yang udah di cetak
+nomarator -> pengejuan surat 
+jenis surat -> punya karakter ristik nomor surat
+ada pengajuan beasiswa -> untuk nomorator beasiswa
+dll
