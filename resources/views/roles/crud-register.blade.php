@@ -86,6 +86,11 @@
                 <div class="card-header">{{ __('Register') }}</div>
 
                 <div class="card-body">
+                    <h6>Gunakan fitur import akun dengan file excel</h6>
+                    <input type="file" />
+
+                    <hr>
+
                     <form method="POST" action="{{ route('register') }}">
                         @csrf
 

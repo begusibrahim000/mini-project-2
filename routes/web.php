@@ -31,3 +31,5 @@ Route::get('/daftar_akun', function() {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::post('/import-akun-mahasiswa', [App\Http\Controllers\UserController::class, 'import']);
